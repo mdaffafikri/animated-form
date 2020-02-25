@@ -1,2 +1,2 @@
-# animated-login-form
-Animated login form using Anime.js library
+# animated-form
+Animated form using Anime.js library
