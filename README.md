@@ -1,4 +1,4 @@
 # animated-form
 Animated form using Anime.js library
 
-![](ss.gif)
+<img src="ss.gif" width="480">
