@@ -1,0 +1,20 @@
+#mydiv{
+    margin-top: 350px;
+}
+
+.login{
+    cursor: pointer;
+    color: whitesmoke;
+    height: 30px;
+    width:100px;
+    margin: auto;
+    background-color: #232B2B;
+    border-radius: 1%;
+    text-align: center;
+    }   
+
+.isiLogin{
+    text-align: left;
+    display: none;
+    opacity: 0;
+    }
